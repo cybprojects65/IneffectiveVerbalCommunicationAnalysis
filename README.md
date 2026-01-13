@@ -29,4 +29,6 @@ The [Corpus_16kHz](https://github.com/cybprojects65/IneffectiveVerbalCommunicati
 
 The [vae_models](https://github.com/cybprojects65/IneffectiveVerbalCommunicationAnalysis/tree/main/vae_models) folder contains all VAE models trained and projected on the corpus audio files.
 
-
+## Required projects
+[Modulation Spectrogram](https://github.com/cybprojects65/ModulationSpectrogram)
+[VariationalAutoencoder](https://github.com/cybprojects65/VariationalAutoencoder)
